@@ -1,0 +1,9 @@
+{
+  "name": "부산항운노동조합(BPTU) 전사 조직·노무·거버넌스 통합 관리 플랫폼",
+  "short_name": "부산항운노조",
+  "description": "부산항운노동조합 Lv.1 중앙본부 ~ Lv.6 조합원(9,709명) 통합 조직·출역·투표·노임·복지·정책·홍보·산재119 플랫폼",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0C1E4A",
+  "theme_color": "#0C1E4A"
+}
